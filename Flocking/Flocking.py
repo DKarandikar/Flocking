@@ -17,7 +17,7 @@ BOIDS = 50
 CHOOSE_FOCUS = False
 OBS_TYPE = "line"
 OBS_TYPE = "circle"
-OBS_TYPE = "poo"
+OBS_TYPE = "pass"
 
 
 class Quadtree():
